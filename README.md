@@ -1,6 +1,6 @@
-# DeepLearning2020CDC
+# DeepLearning2022CDC
 
-# This page contains the material for the short course titled "Deep Learning: Algorithms and Their Application" by Xiaoming Huo on Thursday, October 15, 2020. 
+# This page contains the material for the short course titled "Deep Learning: Algorithms and Their Application" by Xiaoming Huo on Thursday, February 24, 2022. 
 
 Folder "lectures" contains all the lecture materials: slides, demos.
 
